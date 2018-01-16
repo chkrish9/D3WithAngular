@@ -1,0 +1,7 @@
+:host ::ng-deep .arc text {
+    font: 10px sans-serif!important;
+    text-anchor: middle!important;
+}
+:host ::ng-deep .arc path {
+stroke: #fff;
+}
